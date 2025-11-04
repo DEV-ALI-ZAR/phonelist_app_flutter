@@ -57,8 +57,7 @@ class SettingsScreen extends StatelessWidget {
             ],
           ),
           const SizedBox(height: 32),
-          
-          // Dark Mode Option
+        
           Card(
             elevation: 3,
             color: Theme.of(context).cardColor,
